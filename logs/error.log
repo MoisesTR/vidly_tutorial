@@ -1,0 +1,89 @@
+2020-05-03 16:11:22 [31merror[39m: [31mCould not get the genres![39m
+2020-05-10 21:10:11 error: mongoose is not defined
+2020-05-10 21:10:11 error: mongoose is not defined
+2020-05-10 21:10:39 error: mongoose is not defined
+2020-05-10 21:10:39 error: mongoose is not defined
+2020-05-10 21:11:23 error: mongoose is not defined
+2020-05-10 21:11:23 error: mongoose is not defined
+2020-05-10 21:12:00 error: Cannot read property 'isValid' of undefined
+2020-05-10 21:12:00 error: Cannot read property 'isValid' of undefined
+2020-05-11 00:50:29 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:29 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:30 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:39 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:39 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:39 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:47 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:47 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:47 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:55 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:50:58 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-11 00:51:03 error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+2020-05-27 21:31:33 error: rental is not defined
+2020-05-27 21:31:33 error: rental is not defined
+2020-05-27 21:31:39 error: rental is not defined
+2020-05-27 21:31:39 error: rental is not defined
+2020-05-27 21:31:42 error: rental is not defined
+2020-05-27 21:31:42 error: rental is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:05:14 error: Joi is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:08 error: customerId is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:25 error: req is not defined
+2020-05-27 23:12:30 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:31 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:12:35 error: req is not defined
+2020-05-27 23:18:12 error: moment is not defined
+2020-05-27 23:18:12 error: moment is not defined
+2020-05-27 23:18:12 error: moment is not defined
+2020-05-27 23:18:12 error: moment is not defined
+2020-05-27 23:18:12 error: moment is not defined
+2020-05-27 23:18:29 error: moment is not defined
+2020-05-27 23:18:29 error: moment is not defined
+2020-05-27 23:18:29 error: moment is not defined
+2020-05-27 23:18:29 error: moment is not defined
+2020-05-27 23:18:29 error: moment is not defined
+2020-05-27 23:18:36 error: moment is not defined
+2020-05-27 23:18:36 error: moment is not defined
+2020-05-27 23:18:36 error: moment is not defined
+2020-05-27 23:18:36 error: moment is not defined
+2020-05-27 23:18:36 error: moment is not defined
+2020-05-27 23:18:43 error: moment is not defined
+2020-05-27 23:18:43 error: moment is not defined
+2020-05-27 23:18:43 error: moment is not defined
+2020-05-27 23:18:43 error: moment is not defined
+2020-05-27 23:18:43 error: moment is not defined
+2020-05-27 23:18:46 error: moment is not defined
+2020-05-27 23:18:46 error: moment is not defined
+2020-05-27 23:18:46 error: moment is not defined
+2020-05-27 23:18:46 error: moment is not defined
+2020-05-27 23:18:46 error: moment is not defined

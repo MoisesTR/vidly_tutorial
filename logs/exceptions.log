@@ -1,0 +1,1177 @@
+{"error":{},"level":"error","message":"uncaughtException: require(...) is not a function\nTypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"TypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:19:40 GMT-0600 (Central Standard Time)","process":{"pid":27064,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":57114624,"heapTotal":29192192,"heapUsed":16599392,"external":20629008}},"os":{"loadavg":[3.88134765625,3.52734375,3.0537109375],"uptime":20647},"trace":[{"column":29,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:19:40"}
+{"error":{},"level":"error","message":"uncaughtException: require(...) is not a function\nTypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"TypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:20:11 GMT-0600 (Central Standard Time)","process":{"pid":27213,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":56729600,"heapTotal":28930048,"heapUsed":16417520,"external":20637200}},"os":{"loadavg":[3.59765625,3.49267578125,3.0576171875],"uptime":20678},"trace":[{"column":29,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:20:11"}
+{"error":{},"level":"error","message":"uncaughtException: require(...) is not a function\nTypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"TypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:21:31 GMT-0600 (Central Standard Time)","process":{"pid":27602,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":57303040,"heapTotal":28930048,"heapUsed":16429656,"external":20637200}},"os":{"loadavg":[3.45751953125,3.40576171875,3.0576171875],"uptime":20758},"trace":[{"column":29,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:21:31"}
+{"error":{},"level":"error","message":"uncaughtException: require(...) is not a function\nTypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"TypeError: require(...) is not a function\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:6:29)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:21:33 GMT-0600 (Central Standard Time)","process":{"pid":27620,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":57294848,"heapTotal":28667904,"heapUsed":16289488,"external":20629008}},"os":{"loadavg":[3.45751953125,3.40576171875,3.0576171875],"uptime":20760},"trace":[{"column":29,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:21:33"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:35:53 GMT-0600 (Central Standard Time)","process":{"pid":32642,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73224192,"heapTotal":37064704,"heapUsed":26622104,"external":20455086}},"os":{"loadavg":[2.96044921875,2.9912109375,3.00439453125],"uptime":21620},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:35:53"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:36:18 GMT-0600 (Central Standard Time)","process":{"pid":32745,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":74059776,"heapTotal":37064704,"heapUsed":26575448,"external":20455086}},"os":{"loadavg":[2.94970703125,2.97802734375,3],"uptime":21645},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:36:18"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:37:10 GMT-0600 (Central Standard Time)","process":{"pid":535,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73216000,"heapTotal":36802560,"heapUsed":26658272,"external":20495969}},"os":{"loadavg":[2.607421875,2.8994140625,2.9716796875],"uptime":21697},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:37:10"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:37:32 GMT-0600 (Central Standard Time)","process":{"pid":652,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73969664,"heapTotal":36802560,"heapUsed":26515024,"external":20404570}},"os":{"loadavg":[2.51171875,2.857421875,2.95654296875],"uptime":21719},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:37:32"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:37:44 GMT-0600 (Central Standard Time)","process":{"pid":729,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73854976,"heapTotal":37064704,"heapUsed":26573360,"external":20509367}},"os":{"loadavg":[2.4267578125,2.82861328125,2.9462890625],"uptime":21731},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:37:44"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:38:33 GMT-0600 (Central Standard Time)","process":{"pid":928,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73302016,"heapTotal":37064704,"heapUsed":26467288,"external":20445453}},"os":{"loadavg":[2.93017578125,2.890625,2.96044921875],"uptime":21780},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:38:33"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:39:29 GMT-0600 (Central Standard Time)","process":{"pid":1462,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73646080,"heapTotal":36802560,"heapUsed":26631368,"external":20455086}},"os":{"loadavg":[3.50439453125,3.0859375,3.0244140625],"uptime":21835},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:39:29"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:39:49 GMT-0600 (Central Standard Time)","process":{"pid":1575,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73424896,"heapTotal":37326848,"heapUsed":26504952,"external":20404570}},"os":{"loadavg":[3.79833984375,3.1787109375,3.05615234375],"uptime":21855},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:39:49"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:39:54 GMT-0600 (Central Standard Time)","process":{"pid":1650,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73760768,"heapTotal":37064704,"heapUsed":26407096,"external":20453645}},"os":{"loadavg":[4.13525390625,3.2587890625,3.0830078125],"uptime":21860},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:39:54"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:41:34 GMT-0600 (Central Standard Time)","process":{"pid":2236,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73592832,"heapTotal":37064704,"heapUsed":26393360,"external":20396378}},"os":{"loadavg":[2.99658203125,3.12353515625,3.05419921875],"uptime":21961},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:41:34"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:42:36 GMT-0600 (Central Standard Time)","process":{"pid":2539,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73244672,"heapTotal":37064704,"heapUsed":26525824,"external":20396378}},"os":{"loadavg":[2.67041015625,2.99365234375,3.01123046875],"uptime":22022},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:42:36"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:42:40 GMT-0600 (Central Standard Time)","process":{"pid":2571,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":74010624,"heapTotal":37064704,"heapUsed":26438656,"external":20396378}},"os":{"loadavg":[2.67041015625,2.99365234375,3.01123046875],"uptime":22027},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:42:40"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:43:17 GMT-0600 (Central Standard Time)","process":{"pid":2978,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73805824,"heapTotal":37326848,"heapUsed":26556232,"external":20412762}},"os":{"loadavg":[3.13232421875,3.07177734375,3.03564453125],"uptime":22064},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:43:17"}
+2020-05-03 15:46:47 [31merror[39m: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:46:56 [31merror[39m: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:47:10 error: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:47:23 [31merror[39m: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:47:26 [31merror[39m: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:48:13 error: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+undefined
+{"error":{},"level":"\u001b[31merror\u001b[39m","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:48:43 GMT-0600 (Central Standard Time)","process":{"pid":4820,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73252864,"heapTotal":37326848,"heapUsed":26553520,"external":20404570}},"os":{"loadavg":[3.0087890625,2.9033203125,2.9658203125],"uptime":22390},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:48:43"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:48:56 GMT-0600 (Central Standard Time)","process":{"pid":4896,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73662464,"heapTotal":37064704,"heapUsed":26508208,"external":20460292}},"os":{"loadavg":[3.671875,3.068359375,3.01904296875],"uptime":22403},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:48:56"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:49:56 GMT-0600 (Central Standard Time)","process":{"pid":5321,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":74080256,"heapTotal":37326848,"heapUsed":26375928,"external":20379968}},"os":{"loadavg":[3.48583984375,3.0927734375,3.02685546875],"uptime":22462},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:49:56"}
+{"error":{},"level":"error","message":"uncaughtException: FATAL ERROR: jwtPrivateKey is not defined\nError: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)\n    at Module._compile (internal/modules/cjs/loader.js:1157:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)\n    at Module.load (internal/modules/cjs/loader.js:1001:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:900:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","exception":true,"date":"Sun May 03 2020 15:50:06 GMT-0600 (Central Standard Time)","process":{"pid":5406,"uid":1000,"gid":1000,"cwd":"/home/moisestrigueros/development/node_tutorials/vidly","execPath":"/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version":"v12.16.0","argv":["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage":{"rss":73428992,"heapTotal":37064704,"heapUsed":26565408,"external":20453645}},"os":{"loadavg":[3.3037109375,3.07080078125,3.02001953125],"uptime":22473},"trace":[{"column":15,"file":"/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function":"module.exports","line":6,"method":"exports","native":false},{"column":28,"file":"/home/moisestrigueros/development/node_tutorials/vidly/index.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1157,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1177,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1001,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":900,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":74,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":18,"method":null,"native":false}],"timestamp":"2020-05-03 15:50:06"}
+2020-05-03 15:53:39 [31merror[39m: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
+2020-05-03 15:55:51 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+< wow "error" such < wow  >,"level" such "\u001b[31merror\u001b[39m","message" such "\u001b[31muncaughtException such  FATAL ERROR such  jwtPrivateKey is not defined\u001b[39m\n\u001b[31mError such  FATAL ERROR such  jwtPrivateKey is not defined\u001b[39m\n\u001b[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js such 6 such 15)\u001b[39m\n\u001b[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js such 13 such 28)\u001b[39m\n\u001b[31m    at Module._compile (internal/modules/cjs/loader.js such 1157 such 30)\u001b[39m\n\u001b[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js such 1177 such 10)\u001b[39m\n\u001b[31m    at Module.load (internal/modules/cjs/loader.js such 1001 such 32)\u001b[39m\n\u001b[31m    at Function.Module._load (internal/modules/cjs/loader.js such 900 such 14)\u001b[39m\n\u001b[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js such 74 such 12)\u001b[39m\n\u001b[31m    at internal/main/run_main_module.js such 18 such 47\u001b[39m","stack" such "Error such  FATAL ERROR such  jwtPrivateKey is not defined\n    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js such 6 such 15)\n    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js such 13 such 28)\n    at Module._compile (internal/modules/cjs/loader.js such 1157 such 30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js such 1177 such 10)\n    at Module.load (internal/modules/cjs/loader.js such 1001 such 32)\n    at Function.Module._load (internal/modules/cjs/loader.js such 900 such 14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js such 74 such 12)\n    at internal/main/run_main_module.js such 18 such 47","exception" such true,"date" such "Sun May 03 2020 15 such 57 such 01 GMT-0600 (Central Standard Time)","process" such < wow "pid" such 7444,"uid" such 1000,"gid" such 1000,"cwd" such "/home/moisestrigueros/development/node_tutorials/vidly","execPath" such "/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","version" such "v12.16.0","argv" such ["/home/moisestrigueros/.nvm/versions/node/v12.16.0/bin/node","/home/moisestrigueros/development/node_tutorials/vidly/index.js"],"memoryUsage" such < wow "rss" such 73461760,"heapTotal" such 37064704,"heapUsed" such 26644816,"external" such 20504161 > >,"os" such < wow "loadavg" such [2.54248046875,2.77294921875,2.88427734375],"uptime" such 22888 >,"trace" such [< wow "column" such 15,"file" such "/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js","function" such "module.exports","line" such 6,"method" such "exports","native" such false >,< wow "column" such 28,"file" such "/home/moisestrigueros/development/node_tutorials/vidly/index.js","function" such null,"line" such 13,"method" such null,"native" such false >,< wow "column" such 30,"file" such "internal/modules/cjs/loader.js","function" such "Module._compile","line" such 1157,"method" such "_compile","native" such false >,< wow "column" such 10,"file" such "internal/modules/cjs/loader.js","function" such "Module._extensions..js","line" such 1177,"method" such ".js","native" such false >,< wow "column" such 32,"file" such "internal/modules/cjs/loader.js","function" such "Module.load","line" such 1001,"method" such "load","native" such false >,< wow "column" such 14,"file" such "internal/modules/cjs/loader.js","function" such "Module._load","line" such 900,"method" such "_load","native" such false >,< wow "column" such 12,"file" such "internal/modules/run_main.js","function" such "Function.executeUserEntryPoint [as runMain]","line" such 74,"method" such "executeUserEntryPoint [as runMain]","native" such false >,< wow "column" such 47,"file" such "internal/main/run_main_module.js","function" such null,"line" such 18,"method" such null,"native" such false >],"timestamp" such "2020-05-03 15 such 57 such 01" >
+2020-05-03 15:58:03 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+2020-05-03 15:58:09 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+2020-05-03 15:58:34 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+PRUEBA 2020-05-03 15:58:58 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+PRUEBA 2020-05-03 15:59:05 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+PRUEBA 2020-05-03 15:59:17 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+2020-05-03 15:59:24 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+2020-05-03 16:01:00 [31merror[39m: [31muncaughtException: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31mError: FATAL ERROR: jwtPrivateKey is not defined[39m
+[31m    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)[39m
+[31m    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1157:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:1001:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:900:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)[39m
+[31m    at internal/main/run_main_module.js:18:47[39m
+2020-05-03 16:16:28 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-03 16:16:35 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-03 16:16:37 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:09:06 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:09:55 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:10:29 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:10:43 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:10:56 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:10 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:14 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:18 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:20 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:25 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:29 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:11:37 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:12:09 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:12:49 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:14:02 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:25 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:44 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:47 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:49 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:49 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:15:50 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:15 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:23 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:31 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:32 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:46 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:16:47 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:00 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:03 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:03 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:04 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:22 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:24 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:17:31 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:05 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:06 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:08 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:08 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:08 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:08 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:25 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:53 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:54 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:54 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:54 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:57 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:58 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:58 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:18:59 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:06 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:07 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:11 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:12 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:12 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/middleware/error.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:51 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:52 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:52 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:19:53 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:20:00 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:20:05 error: uncaughtException: transports.MongoDB is not a constructor
+TypeError: transports.MongoDB is not a constructor
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:33:12)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:20:12 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:22:16 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:22:32 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:39:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:22:57 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:40:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:08 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:41:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:14 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:42:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:31 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:39 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:48 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:23:58 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:25:39 error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:21)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-06 22:26:08 error: uncaughtException: colorize is not defined
+ReferenceError: colorize is not defined
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/startup/logger.js:44:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Module.require (internal/modules/cjs/loader.js:1043:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:5:16)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+2020-05-28 23:44:58 error: uncaughtException: FATAL ERROR: jwtPrivateKey is not defined
+Error: FATAL ERROR: jwtPrivateKey is not defined
+    at module.exports (/home/moisestrigueros/development/node_tutorials/vidly/startup/config.js:6:15)
+    at Object.<anonymous> (/home/moisestrigueros/development/node_tutorials/vidly/index.js:13:28)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47
