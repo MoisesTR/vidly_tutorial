@@ -4,7 +4,7 @@ require('winston-mongodb');
 require('express-async-errors');
 
 const logger = createLogger({
-    level: 'info',
+    level: 'error',
     format: format.combine(
         format.timestamp({
           format: 'YYYY-MM-DD HH:mm:ss'
